@@ -100,3 +100,8 @@ This is a simple Django-based web application that allows users to vote on vario
 
    ![image](https://github.com/user-attachments/assets/345c30b1-9c50-4b19-a65b-0c2195905481)
 
+## short video
+
+   https://github.com/user-attachments/assets/8179c551-6505-41c7-8118-965e4a1d800c
+  
+   
