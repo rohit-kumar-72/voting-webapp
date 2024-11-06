@@ -12,6 +12,7 @@ This is a simple Django-based web application that allows users to vote on vario
 - Secure user authentication and authorization.
 - SQLite database for data storage.
 - Responsive design for mobile and desktop.
+- utilize django forms
 
 ## Getting Started
 
@@ -78,45 +79,24 @@ This is a simple Django-based web application that allows users to vote on vario
 
 1. Signup Page:  New user Create a new Account.
 
-   <img width="938" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/27745e63-5ef9-4353-a1cf-24f42e9c2fd5">
+   ![image](https://github.com/user-attachments/assets/9f50d2d0-a639-4ea5-bcde-1b755b9b12ff)
 
  
  2. Signin Page:  Existing user login here.
 
-    <img width="933" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/f8282e17-86ef-4393-9bb4-7cb68214d9af">
+    ![image](https://github.com/user-attachments/assets/5c89cb2e-8471-41f1-a9c7-6f2ec856f6d5)
 
 
 3.  Category Page:  Browse categories and select one to vote.
 
-   <img width="939" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/3cecb096-f7c2-45ad-a141-56a4cd7c990e">
+   ![image](https://github.com/user-attachments/assets/fc23889b-de03-40a7-ac52-daad22f98d4b)
 
 
 4.  Vote Page:  Vote for your preferred category.
 
-<img width="941" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/070f7aeb-1229-4788-beda-3d63bc9c5c8d">
-
-<img width="941" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/32f92626-2746-4124-8a52-781539a3928c">
-
+   ![image](https://github.com/user-attachments/assets/18959866-effc-4457-9402-e6dc689c48a6)
 
 5.  Result Page: View the voting results.
 
-   <img width="931" alt="image" src="https://github.com/SuryaPratap2542/Voting-Site/assets/89827931/bb04acf1-dcf7-49fd-bbb3-5c815a06453f">
+   ![image](https://github.com/user-attachments/assets/345c30b1-9c50-4b19-a65b-0c2195905481)
 
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -m 'Add feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Create a pull request with a clear description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the Django community for their excellent documentation and resources.
